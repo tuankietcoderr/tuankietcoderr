@@ -38,3 +38,5 @@ Currently, I am a Web Front-end Developer, and when I apply to your company, I a
   </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tuankietcoderr&theme=radical" alt="tuankietcoderr" /></p>
+ 
+[![](https://visitcount.itsvg.in/api?id=tuankietcoderr&label=Views&color=5&icon=6&pretty=false)](https://visitcount.itsvg.in)
