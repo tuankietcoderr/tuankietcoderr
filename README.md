@@ -5,7 +5,7 @@
 - 👨🏻‍🎓 Tuan Kiet Tran
 - 🌱 I’m currently learning at University of Information Technology, Vietnam National University - Ho Chi Minh City
 - 👨‍💻 Software Engineer
-- 📕 Sophomore
+- 📕 Third-year student
 - 📫 How to reach me: **tuankietwebdevfw@gmail.com**
 
 ### MORE DETAILS
