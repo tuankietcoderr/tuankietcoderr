@@ -10,13 +10,19 @@
 
 ### MORE DETAILS
 
-I am a sophomore at University of Information Technology, my major is Software Engineering and I will become a Fullstack Developer in the future. \
+I am a third-year student at University of Information Technology, my major is Software Engineering and I will become a Fullstack Developer in the future. \
 I feel curious about everything. So I like to explore everything around me. Sometimes, I break machines like computers, phones, and electric toys to see what's inside them. So I also learned a lot from them. Also, I am very interested in computers. I spend my free time learning programming. \
 Currently, I am a Web Front-end Developer, and when I apply to your company, I am looking forward to learning new things and participating in the debate to better understand what I do, what I am doing and what I am aiming for with an energetic and positive working environment of your company's staff.
 
-![tuankietcoderr's GitHub stats](https://github-readme-stats.vercel.app/api?username=tuankietcoderr&show_icons=true&theme=radical)
-
-### 💪 SKILLS
+### 📈 Github stats
+<details>
+<summary>Summary</summary>
+<img src="https://github-readme-stats.vercel.app/api?username=tuankietcoderr&show_icons=true&theme=transparent" alt="tuankietcoderr's GitHub stats" />
+</details>
+<details>
+<summary>Most used languages</summary>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuankietcoderr&langs_count=10&layout=compact#" alt="tuankietcoderr's GitHub most used languages" />
+</details>
 
 <h3 align="left">Connect with me:
 <p align="left">
@@ -37,7 +43,8 @@ Currently, I am a Web Front-end Developer, and when I apply to your company, I a
               />
             </a>
   </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tuankietcoderr&theme=radical" alt="tuankietcoderr" /></p>
+  
+### Streaks
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tuankietcoderr&theme=transparent" alt="tuankietcoderr" /></p>
  
 [![](https://visitcount.itsvg.in/api?id=tuankietcoderr&label=Views&color=5&icon=6&pretty=false)](https://visitcount.itsvg.in)
